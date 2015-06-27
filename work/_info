@@ -1,0 +1,186 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\MY\2nd4th\architecture\project\pro2\E10119_Project
+Ealu
+Z1 w1381138041
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 G^o2zK;Vh4eVdKTVo98653
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dG:\MY\2nd4th\architecture\project\pro2\E10119_Project
+Z7 8G:/MY/2nd4th/architecture/project/pro2/E10119_Project/alu.vhdl
+Z8 FG:/MY/2nd4th/architecture/project/pro2/E10119_Project/alu.vhdl
+l0
+L8
+VmAS6S9<kIZDAd3PXhT2Qe3
+Z9 OV;C;10.0c;49
+32
+Z10 !s108 1381139232.176000
+Z11 !s90 -reportprogress|300|-work|work|G:/MY/2nd4th/architecture/project/pro2/E10119_Project/alu.vhdl|
+Z12 !s107 G:/MY/2nd4th/architecture/project/pro2/E10119_Project/alu.vhdl|
+Z13 o-work work -O0
+Z14 tExplicit 1
+!s100 bNXEkU;`^HXQNmW0i8TnR2
+Ainside
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 mAS6S9<kIZDAd3PXhT2Qe3
+l24
+L21
+V^8n@gz;LmLgioiT29c5U41
+R9
+32
+R10
+R11
+R12
+R13
+R14
+!s100 DZ60W=ODCGDA5QoMzndZR3
+Eflif
+Z15 w1381138967
+R2
+R3
+R4
+R5
+R6
+Z16 8G:/MY/2nd4th/architecture/project/pro2/E10119_Project/flip flop.vhdl
+Z17 FG:/MY/2nd4th/architecture/project/pro2/E10119_Project/flip flop.vhdl
+l0
+L7
+VH;5F9hWf4^YP_S>=l1ZoE2
+R9
+32
+Z18 !s108 1381139232.505000
+Z19 !s90 -reportprogress|300|-work|work|G:/MY/2nd4th/architecture/project/pro2/E10119_Project/flip flop.vhdl|
+Z20 !s107 G:/MY/2nd4th/architecture/project/pro2/E10119_Project/flip flop.vhdl|
+R13
+R14
+!s100 Y0Ha;oI9cKOlO0H65lY;d3
+Awrk
+R2
+R3
+R4
+R5
+DEx4 work 4 flif 0 22 H;5F9hWf4^YP_S>=l1ZoE2
+l17
+L16
+VQ8SLd0mWFG;BM@0PW0IGc1
+R9
+32
+R18
+R19
+R20
+R13
+R14
+!s100 I:N:Fm[C[FiXG;:4d>[R;3
+Eful_alu
+Z21 w1381138368
+R2
+R3
+R4
+R5
+R6
+Z22 8G:/MY/2nd4th/architecture/project/pro2/E10119_Project/ful_alu.vhdl
+Z23 FG:/MY/2nd4th/architecture/project/pro2/E10119_Project/ful_alu.vhdl
+l0
+L7
+VFJ1j7P507JHN81aKI0ZX33
+R9
+32
+Z24 !s108 1381139232.819000
+Z25 !s90 -reportprogress|300|-work|work|G:/MY/2nd4th/architecture/project/pro2/E10119_Project/ful_alu.vhdl|
+Z26 !s107 G:/MY/2nd4th/architecture/project/pro2/E10119_Project/ful_alu.vhdl|
+R13
+R14
+!s100 YD3Fn^>mPcKoKNZ@cZeTY0
+Ainside
+R2
+R3
+R4
+R5
+DEx4 work 7 ful_alu 0 22 FJ1j7P507JHN81aKI0ZX33
+l47
+L19
+VCJ59eZZ5bJHWTPBnL0MIj3
+R9
+32
+R24
+R25
+R26
+R13
+R14
+!s100 S@:Yib>h5mAK9OjfABkhU3
+Ereg
+Z27 w1381138944
+R2
+R3
+R4
+R5
+R6
+Z28 8G:/MY/2nd4th/architecture/project/pro2/E10119_Project/register.vhd
+Z29 FG:/MY/2nd4th/architecture/project/pro2/E10119_Project/register.vhd
+l0
+L7
+V_:Tm`FD2^GNVNQo_B@]@c1
+R9
+32
+Z30 !s108 1381139233.321000
+Z31 !s90 -reportprogress|300|-work|work|G:/MY/2nd4th/architecture/project/pro2/E10119_Project/register.vhd|
+Z32 !s107 G:/MY/2nd4th/architecture/project/pro2/E10119_Project/register.vhd|
+R13
+R14
+!s100 2@9Y`]zo50GzHQ6P3YQgU3
+Abhv
+R2
+R3
+R4
+R5
+DEx4 work 3 reg 0 22 _:Tm`FD2^GNVNQo_B@]@c1
+l28
+L16
+VVHgOEB2ao@:BEG[26CmR^3
+R9
+32
+R30
+R31
+R32
+R13
+R14
+!s100 W[2egNQJdm[]hl3f83CHR2
+Etb_falu
+Z33 w1381139256
+R4
+R5
+R6
+Z34 8G:/MY/2nd4th/architecture/project/pro2/E10119_Project/tb_falu.vhdl
+Z35 FG:/MY/2nd4th/architecture/project/pro2/E10119_Project/tb_falu.vhdl
+l0
+L6
+VO48Yki<WkAj`C4?JmBmG32
+!s100 ^lj[jEWA6KMb8IPD1RJh<2
+R9
+32
+Z36 !s108 1381139276.644000
+Z37 !s90 -reportprogress|300|-work|work|-O0|G:/MY/2nd4th/architecture/project/pro2/E10119_Project/tb_falu.vhdl|
+Z38 !s107 G:/MY/2nd4th/architecture/project/pro2/E10119_Project/tb_falu.vhdl|
+R13
+R14
+Atest
+R4
+R5
+Z39 DEx4 work 7 tb_falu 0 22 O48Yki<WkAj`C4?JmBmG32
+l25
+L9
+VfQ`EfeggH5Je>z>R7GVMX1
+!s100 J[]Q:>nQn;>hFCmPJ5=oR1
+R9
+32
+R36
+R37
+R38
+R13
+R14
